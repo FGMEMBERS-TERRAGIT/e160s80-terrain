@@ -1,0 +1,16 @@
+OBJECT_BASE 5669632.btg
+OBJECT NZFX.btg
+OBJECT_SHARED Models/Airport/windsock.xml 166.757066 -77.943505 9.3 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 166.793138 -77.969586 11.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 166.769085 -77.955656 10.2 0.00
+OBJECT NZIR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 167.035856 -77.888858 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 167.022776 -77.900673 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 166.901965 -77.894812 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 166.915155 -77.882999 -9999.0 0.00
+OBJECT NZPG.btg
+OBJECT_SHARED Models/Airport/windsock.xml 166.683017 -77.959712 9.6 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 166.551942 -77.957910 8.8 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 166.487196 -77.952353 8.3 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 166.532014 -77.978143 11.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 166.505448 -77.955088 8.5 0.00
